@@ -1,0 +1,21 @@
+Nombre de la BBDD: mymusic
+Usuario: root
+Contraseña:
+
+* Los parámetros de conexión los puede modificar en la carpeta 'resources' > mysqli.inc.php
+
+
+-
+
+Credenciales del administrador:
+admin
+admin
+
+Credenciales de usuario:
+luisvalles92@hotmail.com
+OrtoN11
+
+Credenciales de artista:
+eminem@gmail.com
+ShadY66
+

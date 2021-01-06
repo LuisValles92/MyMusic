@@ -1,0 +1,3 @@
+CONFIGURAR XAMPP:
+MySQL -> Config -> my.ini 
+-> Para [mysqld] -> Cambiar valor a 16 max_allowed_packet=16M
