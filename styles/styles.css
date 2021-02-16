@@ -491,6 +491,12 @@ table {
     margin-left: auto;
     width: 100%;
     border-radius: 5px;
+    table-layout: fixed;
+}
+
+th,
+td {
+    word-wrap: break-word;
 }
 
 th,
